@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://via-decide.github.io/readme-0bsfyv/sitemap.xml
